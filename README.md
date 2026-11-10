@@ -1,6 +1,6 @@
 # Protein Structure Embeddings and Conformational Dynamics
 
-Anonymous reproducibility repository for the accompanying NeurIPS workshop submission.
+Reproducibility repository for the accompanying NeurIPS Interpretability for Discovery submission.
 It contains the complete 8,598-protein manifest, frozen homology-aware partitions, experiment implementations, compact result tables, and figure builders.
 It excludes embeddings, checkpoints, structure caches, raw predictions, internal reviews, development notes, and machine-specific state.
 
